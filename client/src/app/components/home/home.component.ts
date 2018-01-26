@@ -17,8 +17,8 @@ export class HomeComponent implements OnInit {
   constructor(private dataService:DataService) { }
 
   ngOnInit() {
-    this.loadPosts();
-    this.loadDataTimerID = setInterval(this.loadPosts, 3000);
+    this.loadStories();
+    this.loadDataTimerID = setInterval(this.loadStories, 3000);
   }
   
   ngOnDestroy() {
@@ -27,7 +27,7 @@ export class HomeComponent implements OnInit {
     }
   }
   
-  loadPosts = () => {
+  loadStories = () => {
     this.dataService.getAllStories().subscribe((stories) => {
       if(this.loadDataTimerID) {
         clearInterval(this.loadDataTimerID)
