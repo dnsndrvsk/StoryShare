@@ -12,6 +12,10 @@ Preview:
 
 <hr/>
 
+![alt text](http://i99.fastpic.ru/big/2018/0129/eb/05a36ea69056addc1cb302559a32f5eb.jpg)
+
+<hr/>
+
 ![alt text](http://i99.fastpic.ru/big/2018/0129/ec/f577f2edd5d8b1a7115c9677ed185cec.jpg)
 
 <h2>Launching the app:</h2>
