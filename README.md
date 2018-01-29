@@ -1,6 +1,6 @@
 # StoryShare
 
-<h3>This project was created using <code>Angular</code>, <code>Angular-CLI</code>, <code>Material-UI</code>, <code>Express</code>, <code>MongoDB</code> and some other things.</h3>
+<h4>This project was created using <code>Angular</code>, <code>Angular-CLI</code>, <code>Material-UI</code>, <code>Express</code>, <code>MongoDB</code> and some other things.</h4>
 
 <h3>Preview:</h3>
 
