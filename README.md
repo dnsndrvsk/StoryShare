@@ -8,10 +8,6 @@ Preview:
 
 <hr/>
 
-![alt text](http://i99.fastpic.ru/big/2018/0129/d8/ae28f2679fa6542faf7fe8e322c476d8.jpg)
-
-<hr/>
-
 ![alt text](http://i99.fastpic.ru/big/2018/0129/eb/05a36ea69056addc1cb302559a32f5eb.jpg)
 
 <hr/>
