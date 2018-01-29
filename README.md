@@ -2,7 +2,7 @@
 
 This project was created using <code>Angular</code>, <code>Angular-CLI</code>, <code>Material-UI</code>, <code>Express</code>, <code>MongoDB</code> and some other things.
 
-<h3>Preview:</h3>
+<h6>Preview:</h6>
 
 ![alt text](http://i99.fastpic.ru/big/2018/0129/34/03305666cfad070d1bab9d719cd25734.jpg)
 
