@@ -1,5 +1,7 @@
 # StoryShare
 
+You can see this on <a href="https://storyshare-ng.herokuapp.com">heroku</a>
+
 This project was created using <code>Angular</code>, <code>Angular-CLI</code>, <code>Material-UI</code>, <code>Express</code>, <code>MongoDB</code> and some other things.
 
 <h3>UI Preview:</h3>
